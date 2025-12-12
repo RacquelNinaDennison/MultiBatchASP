@@ -1,0 +1,19 @@
+Loaded: ./asp_encodings/encoding.lp
+Loaded: ./asp_encodings/large_facts.lp
+Grounding parts: base, flow
+Starting solve() (stop after first model)
+Model 1 found, cost = []
+
+=== Solve result ===
+SAT
+Total time (grounding + solving): 96.016s
+
+=== Basic clingo statistics ===
+ Models enumerated : 1.0
+ Solve calls       : 0
+ Choices           : 0
+ Conflicts         : 0
+ Restarts          : 0
+ Time (total)      : 96.033s
+ Time (solve)      : 87.184s
+ Time (model)      : 0.000s
